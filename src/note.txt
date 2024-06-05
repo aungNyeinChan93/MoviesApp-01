@@ -2,3 +2,10 @@ https://redux.js.org/
 
 //add middleware in store
  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+
+
+api ref: https://www.themoviedb.org/
+
+apikey :8fe4eceefa73b8aba054f3e4105b289ezxzfxf
+
+nowPlaying :https://api.themoviedb.org/3/movie/now_playing?api_key=8fe4eceefa73b8aba054f3e4105b289ezxzfxf

@@ -1,6 +1,7 @@
 import { actionTypes } from "../action_types";
 
 export const fetchMovies = (movies) => {
+  console.log(movies);
   return {
     type: actionTypes.FETCHING_MOVIES,
     payload: movies,
