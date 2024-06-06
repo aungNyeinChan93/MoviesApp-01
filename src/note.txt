@@ -9,3 +9,5 @@ api ref: https://www.themoviedb.org/
 apikey :8fe4eceefa73b8aba054f3e4105b289ezxzfxf
 
 nowPlaying :https://api.themoviedb.org/3/movie/now_playing?api_key=8fe4eceefa73b8aba054f3e4105b289ezxzfxf
+
+https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg
