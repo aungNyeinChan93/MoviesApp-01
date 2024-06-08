@@ -18,9 +18,9 @@ const Header = () => {
           <Navbar.Link href="/" active>
             Home
           </Navbar.Link>
-          <Navbar.Link href="/movie/detail/:">Detail</Navbar.Link>
-          <Navbar.Link href="#">Services</Navbar.Link>
-          <Navbar.Link href="#">Pricing</Navbar.Link>
+          <Navbar.Link href="#">Popular</Navbar.Link>
+          <Navbar.Link href="#">Coming soon</Navbar.Link>
+          <Navbar.Link href="#">Coming soon</Navbar.Link>
           <Navbar.Link href="*">Error Page</Navbar.Link>
         </Navbar.Collapse>
       </Navbar>
