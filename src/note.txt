@@ -13,3 +13,9 @@ nowPlaying :https://api.themoviedb.org/3/movie/now_playing?api_key=8fe4eceefa73b
 image>>https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg
 
 movieDetail >> https://api.themoviedb.org/3/movie/{movie_id}
+
+search >> https://api.themoviedb.org/3/search/movie?query=${}&$api_key${}
+search >> https://api.themoviedb.org/3/search/movie?query="war"&api_key=8fe4eceefa73b8aba054f3e4105b289e
+
+popular >> https://api.themoviedb.org/3/movie/popular
+popular >> https://api.themoviedb.org/3/movie/popular?api_key=8fe4eceefa73b8aba054f3e4105b289e
